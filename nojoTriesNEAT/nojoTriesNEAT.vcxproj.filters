@@ -18,30 +18,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NEAT\layer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="NEAT\network.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="NEAT\NEAT.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="NEAT\neuron.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="NEAT\layer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="NEAT\network.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="NEAT\NEAT.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="NEAT\neuron.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
