@@ -128,10 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NEAT\Layer.cpp" />
     <ClCompile Include="NEAT\NEAT.cpp" />
+    <ClCompile Include="NEAT\Network.cpp" />
+    <ClCompile Include="NEAT\Neuron.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="NEAT\Layer.h" />
     <ClInclude Include="NEAT\NEAT.h" />
+    <ClInclude Include="NEAT\Network.h" />
+    <ClInclude Include="NEAT\Neuron.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
